@@ -1,0 +1,35 @@
+body{
+    padding-left: 15em;
+    padding-right: 15em;
+}
+
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+ 
+.texto-encima{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+#imagen{
+max-width: 55%;
+height: auto;
+margin: 20px;
+padding: 5px;
+display: block;
+margin: auto;
+}
+
+.centrar-imagen {
+text-align: center;
+}
+
+#justificado{
+    padding-top: 29em;
+    padding-left: 30em;
+    padding-right: 30em;
+}
